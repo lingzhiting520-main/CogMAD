@@ -1,6 +1,6 @@
 # CogMAD
 
-**Cognitive Multi-Agent Threat Misattribution Detection Platform**
+**Cognitive Multi-Agent Threat Misattribution Detection and Mitigation Platform**
 
 ## Project
 
